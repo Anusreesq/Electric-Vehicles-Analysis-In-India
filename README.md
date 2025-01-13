@@ -71,6 +71,17 @@ Invest in affordable 2-wheeler EV models.
 
 Target states with lower penetration to capture untapped markets.
 
+## DASHBOARD
+
+### MAKERS ANALYSIS
+![Makers Insights](https://github.com/user-attachments/assets/52917196-ffe5-46de-9c07-a44f1451810d)
+
+### STATE ANALYSIS
+![State Analysis](https://github.com/user-attachments/assets/961aacc5-5934-4ddd-981b-bae493d00ac4)
+
+### SEASONAL ANALYSIS
+![Seasonal Analysis](https://github.com/user-attachments/assets/8988b13d-be06-4f9e-9629-654b64f35c1c)
+
 
 
 

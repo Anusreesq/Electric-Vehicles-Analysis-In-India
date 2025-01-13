@@ -8,6 +8,35 @@ Focused on understanding trends, growth patterns, and seasonal analysis.
 
 To highlight state-wise and maker-wise contributions to EV growth.
 
+## PROBLEM STATEMENTS
+
+1. List the top 5 and bottom 5 makers for the fiscal years 2023 to 2024 in 
+terms of the number of 2-wheelers sold.
+
+2. Identify the top 5 states with the highest penetration rate in 2-wheeler 
+and 4-wheeler EV sales in FY 2024.
+
+3. List the states with negative penetration (decline) in EV sales from 2022 
+to 2024.
+
+4. What are the quarterly trends based on sales volume for the top 5 EV 
+makers (4-wheelers) from 2022 to 2024
+
+5. List down the compounded annual growth rate (CAGR) in 4-wheeler 
+units for the top 5 makers from 2022 to 2024.
+
+6. List down the top 10 states that had the highest compounded annual 
+growth rate (CAGR) from 2022 to 2024 in total vehicles sold.
+
+7. What are the peak and low season months for EV sales based on the 
+data from 2022 to 2024
+
+8. What is the projected number of EV sales (including 2-wheelers and 4-
+wheelers) for the top 10 states by penetration rate in 2030, based on the 
+compounded annual growth rate (CAGR) from previous years
+
+
+
 ## KEY INSIGHTS
 
 2-wheelers dominate the sales volume, aligning with consumer preferences for affordability and utility.
